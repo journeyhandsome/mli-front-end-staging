@@ -1,0 +1,716 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "_name": "_3a0530c7"
+  },
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_5d0c1248"
+  },
+  {
+    "name": "admission",
+    "path": "/admission",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\admission\\\\index.vue",
+    "chunkName": "pages/admission/index",
+    "_name": "_04db90ac"
+  },
+  {
+    "name": "careers",
+    "path": "/careers",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\careers.vue",
+    "chunkName": "pages/careers",
+    "_name": "_2953f644"
+  },
+  {
+    "name": "company",
+    "path": "/company",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\company.vue",
+    "chunkName": "pages/company",
+    "_name": "_3c97260c"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_280ee51a"
+  },
+  {
+    "name": "course",
+    "path": "/course",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\course.vue",
+    "chunkName": "pages/course",
+    "_name": "_c0d17648"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_341458b6"
+  },
+  {
+    "name": "faq-covid19",
+    "path": "/faq-covid19",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\faq-covid19.vue",
+    "chunkName": "pages/faq-covid19",
+    "_name": "_824fc236"
+  },
+  {
+    "name": "feature",
+    "path": "/feature",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\feature.vue",
+    "chunkName": "pages/feature",
+    "_name": "_446c8005"
+  },
+  {
+    "name": "firstday-at-mli",
+    "path": "/firstday-at-mli",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\firstday-at-mli.vue",
+    "chunkName": "pages/firstday-at-mli",
+    "_name": "_401784a0"
+  },
+  {
+    "name": "freetrial",
+    "path": "/freetrial",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\freetrial\\\\index.vue",
+    "chunkName": "pages/freetrial/index",
+    "_name": "_6e01f62e"
+  },
+  {
+    "name": "going-to-college",
+    "path": "/going-to-college",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\going-to-college.vue",
+    "chunkName": "pages/going-to-college",
+    "_name": "_93583e0e"
+  },
+  {
+    "name": "havevisa",
+    "path": "/havevisa",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\havevisa.vue",
+    "chunkName": "pages/havevisa",
+    "_name": "_0552b12a"
+  },
+  {
+    "name": "hollywood",
+    "path": "/hollywood",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\hollywood.vue",
+    "chunkName": "pages/hollywood",
+    "_name": "_bfe2ede4"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\home.vue",
+    "chunkName": "pages/home",
+    "_name": "_ed9da440"
+  },
+  {
+    "name": "how-to-apply",
+    "path": "/how-to-apply",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\index.vue",
+    "chunkName": "pages/how-to-apply/index",
+    "_name": "_69d36470"
+  },
+  {
+    "name": "how-to-apply-for-a-student-visa",
+    "path": "/how-to-apply-for-a-student-visa",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply-for-a-student-visa.vue",
+    "chunkName": "pages/how-to-apply-for-a-student-visa",
+    "_name": "_e2bd8934"
+  },
+  {
+    "name": "image-gallery",
+    "path": "/image-gallery",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\image-gallery.vue",
+    "chunkName": "pages/image-gallery",
+    "_name": "_20df43af"
+  },
+  {
+    "name": "material",
+    "path": "/material",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\material\\\\index.vue",
+    "chunkName": "pages/material/index",
+    "_name": "_02b609da"
+  },
+  {
+    "name": "mli-quarantine-policy",
+    "path": "/mli-quarantine-policy",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\mli-quarantine-policy.vue",
+    "chunkName": "pages/mli-quarantine-policy",
+    "_name": "_74af43c6"
+  },
+  {
+    "name": "official-toefl-test",
+    "path": "/official-toefl-test",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\official-toefl-test.vue",
+    "chunkName": "pages/official-toefl-test",
+    "_name": "_bcd5fc40"
+  },
+  {
+    "name": "price",
+    "path": "/price",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\price.vue",
+    "chunkName": "pages/price",
+    "_name": "_bac172d0"
+  },
+  {
+    "name": "price-auto",
+    "path": "/price-auto",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\price-auto.vue",
+    "chunkName": "pages/price-auto",
+    "_name": "_b528e018"
+  },
+  {
+    "name": "promo_contact",
+    "path": "/promo_contact",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\promo_contact\\\\index.vue",
+    "chunkName": "pages/promo_contact/index",
+    "_name": "_612697e3"
+  },
+  {
+    "name": "promo_material",
+    "path": "/promo_material",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\promo_material\\\\index.vue",
+    "chunkName": "pages/promo_material/index",
+    "_name": "_33494d6a"
+  },
+  {
+    "name": "safety-covid19",
+    "path": "/safety-covid19",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\safety-covid19.vue",
+    "chunkName": "pages/safety-covid19",
+    "_name": "_192b655a"
+  },
+  {
+    "name": "school-calendar",
+    "path": "/school-calendar",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\school-calendar.vue",
+    "chunkName": "pages/school-calendar",
+    "_name": "_1a943b06"
+  },
+  {
+    "name": "school-magazine",
+    "path": "/school-magazine",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\school-magazine.vue",
+    "chunkName": "pages/school-magazine",
+    "_name": "_4d88d05c"
+  },
+  {
+    "name": "stay",
+    "path": "/stay",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\stay.vue",
+    "chunkName": "pages/stay",
+    "_name": "_16061b4c"
+  },
+  {
+    "name": "teachers",
+    "path": "/teachers",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\teachers.vue",
+    "chunkName": "pages/teachers",
+    "_name": "_00098452"
+  },
+  {
+    "name": "testimonial",
+    "path": "/testimonial",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\testimonial.vue",
+    "chunkName": "pages/testimonial",
+    "_name": "_1b2099ae"
+  },
+  {
+    "name": "testimonials",
+    "path": "/testimonials",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\testimonials.vue",
+    "chunkName": "pages/testimonials",
+    "_name": "_4c9e3d35"
+  },
+  {
+    "name": "visaholder",
+    "path": "/visaholder",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\visaholder.vue",
+    "chunkName": "pages/visaholder",
+    "_name": "_bcc0b724"
+  },
+  {
+    "name": "westwood",
+    "path": "/westwood",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\westwood.vue",
+    "chunkName": "pages/westwood",
+    "_name": "_3e11cedd"
+  },
+  {
+    "name": "admission-fail",
+    "path": "/admission/fail",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\admission\\\\fail.vue",
+    "chunkName": "pages/admission/fail",
+    "_name": "_6265e514"
+  },
+  {
+    "name": "admission-thanks",
+    "path": "/admission/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\admission\\\\thanks.vue",
+    "chunkName": "pages/admission/thanks",
+    "_name": "_4c332fa1"
+  },
+  {
+    "name": "contact-thanks",
+    "path": "/contact/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\contact\\\\thanks.vue",
+    "chunkName": "pages/contact/thanks",
+    "_name": "_2a9792f8"
+  },
+  {
+    "name": "freetrial-thanks",
+    "path": "/freetrial/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\freetrial\\\\thanks.vue",
+    "chunkName": "pages/freetrial/thanks",
+    "_name": "_233feb7c"
+  },
+  {
+    "name": "how-to-apply-nonf1",
+    "path": "/how-to-apply/nonf1",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\nonf1.vue",
+    "chunkName": "pages/how-to-apply/nonf1",
+    "_name": "_27184a0e"
+  },
+  {
+    "name": "how-to-apply-others",
+    "path": "/how-to-apply/others",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\others.vue",
+    "chunkName": "pages/how-to-apply/others",
+    "_name": "_63f9ecdd"
+  },
+  {
+    "name": "how-to-apply-overseas",
+    "path": "/how-to-apply/overseas",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\overseas.vue",
+    "chunkName": "pages/how-to-apply/overseas",
+    "_name": "_08c0915c"
+  },
+  {
+    "name": "how-to-apply-short",
+    "path": "/how-to-apply/short",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\short.vue",
+    "chunkName": "pages/how-to-apply/short",
+    "_name": "_fb52771c"
+  },
+  {
+    "name": "how-to-apply-student-visa-f1",
+    "path": "/how-to-apply/student-visa-f1",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\student-visa-f1\\\\index.vue",
+    "chunkName": "pages/how-to-apply/student-visa-f1/index",
+    "_name": "_6ce8fe27"
+  },
+  {
+    "name": "how-to-apply-visa_overseas",
+    "path": "/how-to-apply/visa_overseas",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\visa_overseas.vue",
+    "chunkName": "pages/how-to-apply/visa_overseas",
+    "_name": "_4e3ad40c"
+  },
+  {
+    "name": "material-thanks",
+    "path": "/material/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\material\\\\thanks.vue",
+    "chunkName": "pages/material/thanks",
+    "_name": "_28ecb91e"
+  },
+  {
+    "name": "promo_contact-thanks",
+    "path": "/promo_contact/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\promo_contact\\\\thanks.vue",
+    "chunkName": "pages/promo_contact/thanks",
+    "_name": "_5b2ad688"
+  },
+  {
+    "name": "promo_material-thanks",
+    "path": "/promo_material/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\promo_material\\\\thanks.vue",
+    "chunkName": "pages/promo_material/thanks",
+    "_name": "_65425c3e"
+  },
+  {
+    "name": "how-to-apply-student-visa-f1-change-of-status",
+    "path": "/how-to-apply/student-visa-f1/change-of-status",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\student-visa-f1\\\\change-of-status.vue",
+    "chunkName": "pages/how-to-apply/student-visa-f1/change-of-status",
+    "_name": "_3f760806"
+  },
+  {
+    "name": "how-to-apply-student-visa-f1-overseas-students",
+    "path": "/how-to-apply/student-visa-f1/overseas-students",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\student-visa-f1\\\\overseas-students.vue",
+    "chunkName": "pages/how-to-apply/student-visa-f1/overseas-students",
+    "_name": "_e6f4517c"
+  },
+  {
+    "name": "how-to-apply-student-visa-f1-transfer-students",
+    "path": "/how-to-apply/student-visa-f1/transfer-students",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\how-to-apply\\\\student-visa-f1\\\\transfer-students.vue",
+    "chunkName": "pages/how-to-apply/student-visa-f1/transfer-students",
+    "_name": "_4b2bf70f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1d9c5cbe"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\index.vue",
+    "chunkName": "pages/_slug/index",
+    "_name": "_1829be09"
+  },
+  {
+    "name": "slug-about",
+    "path": "/:slug/about",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\about.vue",
+    "chunkName": "pages/_slug/about",
+    "_name": "_0f1c3978"
+  },
+  {
+    "name": "slug-admission",
+    "path": "/:slug/admission",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\admission\\\\index.vue",
+    "chunkName": "pages/_slug/admission/index",
+    "_name": "_ea4c0b7c"
+  },
+  {
+    "name": "slug-careers",
+    "path": "/:slug/careers",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\careers.vue",
+    "chunkName": "pages/_slug/careers",
+    "_name": "_720268ac"
+  },
+  {
+    "name": "slug-company",
+    "path": "/:slug/company",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\company.vue",
+    "chunkName": "pages/_slug/company",
+    "_name": "_f574cf18"
+  },
+  {
+    "name": "slug-contact",
+    "path": "/:slug/contact",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\contact\\\\index.vue",
+    "chunkName": "pages/_slug/contact/index",
+    "_name": "_c5ffd3ea"
+  },
+  {
+    "name": "slug-course",
+    "path": "/:slug/course",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\course.vue",
+    "chunkName": "pages/_slug/course",
+    "_name": "_579ce574"
+  },
+  {
+    "name": "slug-faq",
+    "path": "/:slug/faq",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\faq.vue",
+    "chunkName": "pages/_slug/faq",
+    "_name": "_034dba0d"
+  },
+  {
+    "name": "slug-faq-covid19",
+    "path": "/:slug/faq-covid19",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\faq-covid19.vue",
+    "chunkName": "pages/_slug/faq-covid19",
+    "_name": "_4cb71d4d"
+  },
+  {
+    "name": "slug-feature",
+    "path": "/:slug/feature",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\feature.vue",
+    "chunkName": "pages/_slug/feature",
+    "_name": "_e5ca1b26"
+  },
+  {
+    "name": "slug-firstday-at-mli",
+    "path": "/:slug/firstday-at-mli",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\firstday-at-mli.vue",
+    "chunkName": "pages/_slug/firstday-at-mli",
+    "_name": "_9ffde1f0"
+  },
+  {
+    "name": "slug-freetrial",
+    "path": "/:slug/freetrial",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\freetrial\\\\index.vue",
+    "chunkName": "pages/_slug/freetrial/index",
+    "_name": "_5646c781"
+  },
+  {
+    "name": "slug-going-to-college",
+    "path": "/:slug/going-to-college",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\going-to-college.vue",
+    "chunkName": "pages/_slug/going-to-college",
+    "_name": "_439ba391"
+  },
+  {
+    "name": "slug-havevisa",
+    "path": "/:slug/havevisa",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\havevisa.vue",
+    "chunkName": "pages/_slug/havevisa",
+    "_name": "_5b1ae87c"
+  },
+  {
+    "name": "slug-hollywood",
+    "path": "/:slug/hollywood",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\hollywood.vue",
+    "chunkName": "pages/_slug/hollywood",
+    "_name": "_76ea0176"
+  },
+  {
+    "name": "slug-how-to-apply",
+    "path": "/:slug/how-to-apply",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\index.vue",
+    "chunkName": "pages/_slug/how-to-apply/index",
+    "_name": "_863737a0"
+  },
+  {
+    "name": "slug-how-to-apply-for-a-student-visa",
+    "path": "/:slug/how-to-apply-for-a-student-visa",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply-for-a-student-visa.vue",
+    "chunkName": "pages/_slug/how-to-apply-for-a-student-visa",
+    "_name": "_6338f5ce"
+  },
+  {
+    "name": "slug-image-gallery",
+    "path": "/:slug/image-gallery",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\image-gallery.vue",
+    "chunkName": "pages/_slug/image-gallery",
+    "_name": "_9a0f6fd2"
+  },
+  {
+    "name": "slug-material",
+    "path": "/:slug/material",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\material\\\\index.vue",
+    "chunkName": "pages/_slug/material/index",
+    "_name": "_729f9442"
+  },
+  {
+    "name": "slug-mli-quarantine-policy",
+    "path": "/:slug/mli-quarantine-policy",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\mli-quarantine-policy.vue",
+    "chunkName": "pages/_slug/mli-quarantine-policy",
+    "_name": "_7c4a7a85"
+  },
+  {
+    "name": "slug-official-toefl-test",
+    "path": "/:slug/official-toefl-test",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\official-toefl-test.vue",
+    "chunkName": "pages/_slug/official-toefl-test",
+    "_name": "_d939cf70"
+  },
+  {
+    "name": "slug-price",
+    "path": "/:slug/price",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\price.vue",
+    "chunkName": "pages/_slug/price",
+    "_name": "_6cd19a00"
+  },
+  {
+    "name": "slug-price-auto",
+    "path": "/:slug/price-auto",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\price-auto.vue",
+    "chunkName": "pages/_slug/price-auto",
+    "_name": "_ac01b6e8"
+  },
+  {
+    "name": "slug-promo_contact",
+    "path": "/:slug/promo_contact",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\promo_contact\\\\index.vue",
+    "chunkName": "pages/_slug/promo_contact/index",
+    "_name": "_adc9630a"
+  },
+  {
+    "name": "slug-promo_material",
+    "path": "/:slug/promo_material",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\promo_material\\\\index.vue",
+    "chunkName": "pages/_slug/promo_material/index",
+    "_name": "_2c292c5c"
+  },
+  {
+    "name": "slug-safety-covid19",
+    "path": "/:slug/safety-covid19",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\safety-covid19.vue",
+    "chunkName": "pages/_slug/safety-covid19",
+    "_name": "_b71c542a"
+  },
+  {
+    "name": "slug-school-calendar",
+    "path": "/:slug/school-calendar",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\school-calendar.vue",
+    "chunkName": "pages/_slug/school-calendar",
+    "_name": "_eb047524"
+  },
+  {
+    "name": "slug-school-magazine",
+    "path": "/:slug/school-magazine",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\school-magazine.vue",
+    "chunkName": "pages/_slug/school-magazine",
+    "_name": "_851b4a78"
+  },
+  {
+    "name": "slug-stay",
+    "path": "/:slug/stay",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\stay.vue",
+    "chunkName": "pages/_slug/stay",
+    "_name": "_fabc4e1c"
+  },
+  {
+    "name": "slug-teachers",
+    "path": "/:slug/teachers",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\teachers.vue",
+    "chunkName": "pages/_slug/teachers",
+    "_name": "_65ad422c"
+  },
+  {
+    "name": "slug-testimonial",
+    "path": "/:slug/testimonial",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\testimonial.vue",
+    "chunkName": "pages/_slug/testimonial",
+    "_name": "_ae00cfd4"
+  },
+  {
+    "name": "slug-testimonials",
+    "path": "/:slug/testimonials",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\testimonials.vue",
+    "chunkName": "pages/_slug/testimonials",
+    "_name": "_7a9f0bcd"
+  },
+  {
+    "name": "slug-visaholder",
+    "path": "/:slug/visaholder",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\visaholder.vue",
+    "chunkName": "pages/_slug/visaholder",
+    "_name": "_b3998df4"
+  },
+  {
+    "name": "slug-westwood",
+    "path": "/:slug/westwood",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\westwood.vue",
+    "chunkName": "pages/_slug/westwood",
+    "_name": "_0b31a975"
+  },
+  {
+    "name": "slug-admission-fail",
+    "path": "/:slug/admission/fail",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\admission\\\\fail.vue",
+    "chunkName": "pages/_slug/admission/fail",
+    "_name": "_3eb697de"
+  },
+  {
+    "name": "slug-admission-thanks",
+    "path": "/:slug/admission/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\admission\\\\thanks.vue",
+    "chunkName": "pages/_slug/admission/thanks",
+    "_name": "_67e3c009"
+  },
+  {
+    "name": "slug-contact-thanks",
+    "path": "/:slug/contact/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\contact\\\\thanks.vue",
+    "chunkName": "pages/_slug/contact/thanks",
+    "_name": "_cafdc540"
+  },
+  {
+    "name": "slug-freetrial-thanks",
+    "path": "/:slug/freetrial/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\freetrial\\\\thanks.vue",
+    "chunkName": "pages/_slug/freetrial/thanks",
+    "_name": "_0a109aaa"
+  },
+  {
+    "name": "slug-how-to-apply-nonf1",
+    "path": "/:slug/how-to-apply/nonf1",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\nonf1.vue",
+    "chunkName": "pages/_slug/how-to-apply/nonf1",
+    "_name": "_18e66076"
+  },
+  {
+    "name": "slug-how-to-apply-others",
+    "path": "/:slug/how-to-apply/others",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\others.vue",
+    "chunkName": "pages/_slug/how-to-apply/others",
+    "_name": "_a822b916"
+  },
+  {
+    "name": "slug-how-to-apply-overseas",
+    "path": "/:slug/how-to-apply/overseas",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\overseas.vue",
+    "chunkName": "pages/_slug/how-to-apply/overseas",
+    "_name": "_194127ea"
+  },
+  {
+    "name": "slug-how-to-apply-short",
+    "path": "/:slug/how-to-apply/short",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\short.vue",
+    "chunkName": "pages/_slug/how-to-apply/short",
+    "_name": "_7424dada"
+  },
+  {
+    "name": "slug-how-to-apply-student-visa-f1",
+    "path": "/:slug/how-to-apply/student-visa-f1",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\student-visa-f1\\\\index.vue",
+    "chunkName": "pages/_slug/how-to-apply/student-visa-f1/index",
+    "_name": "_14e4f682"
+  },
+  {
+    "name": "slug-how-to-apply-visa_overseas",
+    "path": "/:slug/how-to-apply/visa_overseas",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\visa_overseas.vue",
+    "chunkName": "pages/_slug/how-to-apply/visa_overseas",
+    "_name": "_a13ffb18"
+  },
+  {
+    "name": "slug-material-thanks",
+    "path": "/:slug/material/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\material\\\\thanks.vue",
+    "chunkName": "pages/_slug/material/thanks",
+    "_name": "_78d16609"
+  },
+  {
+    "name": "slug-promo_contact-thanks",
+    "path": "/:slug/promo_contact/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\promo_contact\\\\thanks.vue",
+    "chunkName": "pages/_slug/promo_contact/thanks",
+    "_name": "_11ccf2f0"
+  },
+  {
+    "name": "slug-promo_material-thanks",
+    "path": "/:slug/promo_material/thanks",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\promo_material\\\\thanks.vue",
+    "chunkName": "pages/_slug/promo_material/thanks",
+    "_name": "_29ff7b0e"
+  },
+  {
+    "name": "slug-how-to-apply-student-visa-f1-change-of-status",
+    "path": "/:slug/how-to-apply/student-visa-f1/change-of-status",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\student-visa-f1\\\\change-of-status.vue",
+    "chunkName": "pages/_slug/how-to-apply/student-visa-f1/change-of-status",
+    "_name": "_365bf26e"
+  },
+  {
+    "name": "slug-how-to-apply-student-visa-f1-overseas-students",
+    "path": "/:slug/how-to-apply/student-visa-f1/overseas-students",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\student-visa-f1\\\\overseas-students.vue",
+    "chunkName": "pages/_slug/how-to-apply/student-visa-f1/overseas-students",
+    "_name": "_725d39da"
+  },
+  {
+    "name": "slug-how-to-apply-student-visa-f1-transfer-students",
+    "path": "/:slug/how-to-apply/student-visa-f1/transfer-students",
+    "component": "C:\\\\xampp7.1.3\\\\htdocs\\\\KREDO\\\\mli\\\\client\\\\pages\\\\_slug\\\\how-to-apply\\\\student-visa-f1\\\\transfer-students.vue",
+    "chunkName": "pages/_slug/how-to-apply/student-visa-f1/transfer-students",
+    "_name": "_310359a7"
+  }
+]

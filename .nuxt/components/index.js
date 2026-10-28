@@ -1,0 +1,152 @@
+export const Brochure = () => import('../..\\components\\Brochure.vue' /* webpackChunkName: "components/brochure" */).then(c => wrapFunctional(c.default || c))
+export const CampusContacts = () => import('../..\\components\\CampusContacts.vue' /* webpackChunkName: "components/campus-contacts" */).then(c => wrapFunctional(c.default || c))
+export const CampusMessage = () => import('../..\\components\\CampusMessage.vue' /* webpackChunkName: "components/campus-message" */).then(c => wrapFunctional(c.default || c))
+export const Footer = () => import('../..\\components\\Footer.vue' /* webpackChunkName: "components/footer" */).then(c => wrapFunctional(c.default || c))
+export const FormHandler = () => import('../..\\components\\FormHandler.vue' /* webpackChunkName: "components/form-handler" */).then(c => wrapFunctional(c.default || c))
+export const Header = () => import('../..\\components\\Header.vue' /* webpackChunkName: "components/header" */).then(c => wrapFunctional(c.default || c))
+export const IframeSrc = () => import('../..\\components\\IframeSrc.vue' /* webpackChunkName: "components/iframe-src" */).then(c => wrapFunctional(c.default || c))
+export const ListLinks = () => import('../..\\components\\ListLinks.vue' /* webpackChunkName: "components/list-links" */).then(c => wrapFunctional(c.default || c))
+export const ListText = () => import('../..\\components\\ListText.vue' /* webpackChunkName: "components/list-text" */).then(c => wrapFunctional(c.default || c))
+export const MainMenu = () => import('../..\\components\\MainMenu.vue' /* webpackChunkName: "components/main-menu" */).then(c => wrapFunctional(c.default || c))
+export const MliTable = () => import('../..\\components\\MliTable.vue' /* webpackChunkName: "components/mli-table" */).then(c => wrapFunctional(c.default || c))
+export const Paragraph = () => import('../..\\components\\Paragraph.vue' /* webpackChunkName: "components/paragraph" */).then(c => wrapFunctional(c.default || c))
+export const Sidebar = () => import('../..\\components\\Sidebar.vue' /* webpackChunkName: "components/sidebar" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsCampus = () => import('../..\\components\\constants\\campus.js' /* webpackChunkName: "components/constants-campus" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHelpers = () => import('../..\\components\\constants\\helpers.js' /* webpackChunkName: "components/constants-helpers" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsLanguage = () => import('../..\\components\\constants\\language.js' /* webpackChunkName: "components/constants-language" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataArabic = () => import('../..\\components\\constants\\sidebardata\\arabic.js' /* webpackChunkName: "components/constants-sidebardata-arabic" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataChinese = () => import('../..\\components\\constants\\sidebardata\\chinese.js' /* webpackChunkName: "components/constants-sidebardata-chinese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataDeutsch = () => import('../..\\components\\constants\\sidebardata\\deutsch.js' /* webpackChunkName: "components/constants-sidebardata-deutsch" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataEnglish = () => import('../..\\components\\constants\\sidebardata\\english.js' /* webpackChunkName: "components/constants-sidebardata-english" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataFrance = () => import('../..\\components\\constants\\sidebardata\\france.js' /* webpackChunkName: "components/constants-sidebardata-france" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardata = () => import('../..\\components\\constants\\sidebardata\\index.js' /* webpackChunkName: "components/constants-sidebardata" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataItalian = () => import('../..\\components\\constants\\sidebardata\\italian.js' /* webpackChunkName: "components/constants-sidebardata-italian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataJapanese = () => import('../..\\components\\constants\\sidebardata\\japanese.js' /* webpackChunkName: "components/constants-sidebardata-japanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataKorean = () => import('../..\\components\\constants\\sidebardata\\korean.js' /* webpackChunkName: "components/constants-sidebardata-korean" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataPortugues = () => import('../..\\components\\constants\\sidebardata\\portugues.js' /* webpackChunkName: "components/constants-sidebardata-portugues" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataRussian = () => import('../..\\components\\constants\\sidebardata\\russian.js' /* webpackChunkName: "components/constants-sidebardata-russian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataSpanish = () => import('../..\\components\\constants\\sidebardata\\spanish.js' /* webpackChunkName: "components/constants-sidebardata-spanish" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataTaiwanese = () => import('../..\\components\\constants\\sidebardata\\taiwanese.js' /* webpackChunkName: "components/constants-sidebardata-taiwanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataThailand = () => import('../..\\components\\constants\\sidebardata\\thailand.js' /* webpackChunkName: "components/constants-sidebardata-thailand" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsSidebardataTurkey = () => import('../..\\components\\constants\\sidebardata\\turkey.js' /* webpackChunkName: "components/constants-sidebardata-turkey" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstArabic = () => import('../..\\components\\constants\\footer\\first\\arabic.js' /* webpackChunkName: "components/constants-footer-first-arabic" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstChinese = () => import('../..\\components\\constants\\footer\\first\\chinese.js' /* webpackChunkName: "components/constants-footer-first-chinese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstDeutsch = () => import('../..\\components\\constants\\footer\\first\\deutsch.js' /* webpackChunkName: "components/constants-footer-first-deutsch" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstEnglish = () => import('../..\\components\\constants\\footer\\first\\english.js' /* webpackChunkName: "components/constants-footer-first-english" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstFrance = () => import('../..\\components\\constants\\footer\\first\\france.js' /* webpackChunkName: "components/constants-footer-first-france" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirst = () => import('../..\\components\\constants\\footer\\first\\index.js' /* webpackChunkName: "components/constants-footer-first" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstItalian = () => import('../..\\components\\constants\\footer\\first\\italian.js' /* webpackChunkName: "components/constants-footer-first-italian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstJapanese = () => import('../..\\components\\constants\\footer\\first\\japanese.js' /* webpackChunkName: "components/constants-footer-first-japanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstKorean = () => import('../..\\components\\constants\\footer\\first\\korean.js' /* webpackChunkName: "components/constants-footer-first-korean" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstPortugues = () => import('../..\\components\\constants\\footer\\first\\portugues.js' /* webpackChunkName: "components/constants-footer-first-portugues" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstRussian = () => import('../..\\components\\constants\\footer\\first\\russian.js' /* webpackChunkName: "components/constants-footer-first-russian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstSpanish = () => import('../..\\components\\constants\\footer\\first\\spanish.js' /* webpackChunkName: "components/constants-footer-first-spanish" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstTaiwanese = () => import('../..\\components\\constants\\footer\\first\\taiwanese.js' /* webpackChunkName: "components/constants-footer-first-taiwanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstThailand = () => import('../..\\components\\constants\\footer\\first\\thailand.js' /* webpackChunkName: "components/constants-footer-first-thailand" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterFirstTurkey = () => import('../..\\components\\constants\\footer\\first\\turkey.js' /* webpackChunkName: "components/constants-footer-first-turkey" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondArabic = () => import('../..\\components\\constants\\footer\\second\\arabic.js' /* webpackChunkName: "components/constants-footer-second-arabic" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondChinese = () => import('../..\\components\\constants\\footer\\second\\chinese.js' /* webpackChunkName: "components/constants-footer-second-chinese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondDeutsch = () => import('../..\\components\\constants\\footer\\second\\deutsch.js' /* webpackChunkName: "components/constants-footer-second-deutsch" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondEnglish = () => import('../..\\components\\constants\\footer\\second\\english.js' /* webpackChunkName: "components/constants-footer-second-english" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondFrance = () => import('../..\\components\\constants\\footer\\second\\france.js' /* webpackChunkName: "components/constants-footer-second-france" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecond = () => import('../..\\components\\constants\\footer\\second\\index.js' /* webpackChunkName: "components/constants-footer-second" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondItalian = () => import('../..\\components\\constants\\footer\\second\\italian.js' /* webpackChunkName: "components/constants-footer-second-italian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondJapanese = () => import('../..\\components\\constants\\footer\\second\\japanese.js' /* webpackChunkName: "components/constants-footer-second-japanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondKorean = () => import('../..\\components\\constants\\footer\\second\\korean.js' /* webpackChunkName: "components/constants-footer-second-korean" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondPortugues = () => import('../..\\components\\constants\\footer\\second\\portugues.js' /* webpackChunkName: "components/constants-footer-second-portugues" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondRussian = () => import('../..\\components\\constants\\footer\\second\\russian.js' /* webpackChunkName: "components/constants-footer-second-russian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondSpanish = () => import('../..\\components\\constants\\footer\\second\\spanish.js' /* webpackChunkName: "components/constants-footer-second-spanish" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondTaiwanese = () => import('../..\\components\\constants\\footer\\second\\taiwanese.js' /* webpackChunkName: "components/constants-footer-second-taiwanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondThailand = () => import('../..\\components\\constants\\footer\\second\\thailand.js' /* webpackChunkName: "components/constants-footer-second-thailand" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterSecondTurkey = () => import('../..\\components\\constants\\footer\\second\\turkey.js' /* webpackChunkName: "components/constants-footer-second-turkey" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdArabic = () => import('../..\\components\\constants\\footer\\third\\arabic.js' /* webpackChunkName: "components/constants-footer-third-arabic" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdChinese = () => import('../..\\components\\constants\\footer\\third\\chinese.js' /* webpackChunkName: "components/constants-footer-third-chinese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdDeutsch = () => import('../..\\components\\constants\\footer\\third\\deutsch.js' /* webpackChunkName: "components/constants-footer-third-deutsch" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdEnglish = () => import('../..\\components\\constants\\footer\\third\\english.js' /* webpackChunkName: "components/constants-footer-third-english" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdFrance = () => import('../..\\components\\constants\\footer\\third\\france.js' /* webpackChunkName: "components/constants-footer-third-france" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThird = () => import('../..\\components\\constants\\footer\\third\\index.js' /* webpackChunkName: "components/constants-footer-third" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdItalian = () => import('../..\\components\\constants\\footer\\third\\italian.js' /* webpackChunkName: "components/constants-footer-third-italian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdJapanese = () => import('../..\\components\\constants\\footer\\third\\japanese.js' /* webpackChunkName: "components/constants-footer-third-japanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdKorean = () => import('../..\\components\\constants\\footer\\third\\korean.js' /* webpackChunkName: "components/constants-footer-third-korean" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdPortugues = () => import('../..\\components\\constants\\footer\\third\\portugues.js' /* webpackChunkName: "components/constants-footer-third-portugues" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdRussian = () => import('../..\\components\\constants\\footer\\third\\russian.js' /* webpackChunkName: "components/constants-footer-third-russian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdSpanish = () => import('../..\\components\\constants\\footer\\third\\spanish.js' /* webpackChunkName: "components/constants-footer-third-spanish" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdTaiwanese = () => import('../..\\components\\constants\\footer\\third\\taiwanese.js' /* webpackChunkName: "components/constants-footer-third-taiwanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdThailand = () => import('../..\\components\\constants\\footer\\third\\thailand.js' /* webpackChunkName: "components/constants-footer-third-thailand" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsFooterThirdTurkey = () => import('../..\\components\\constants\\footer\\third\\turkey.js' /* webpackChunkName: "components/constants-footer-third-turkey" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstArabic = () => import('../..\\components\\constants\\header\\first\\arabic.js' /* webpackChunkName: "components/constants-header-first-arabic" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstChinese = () => import('../..\\components\\constants\\header\\first\\chinese.js' /* webpackChunkName: "components/constants-header-first-chinese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstDeutsch = () => import('../..\\components\\constants\\header\\first\\deutsch.js' /* webpackChunkName: "components/constants-header-first-deutsch" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstEnglish = () => import('../..\\components\\constants\\header\\first\\english.js' /* webpackChunkName: "components/constants-header-first-english" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstFrance = () => import('../..\\components\\constants\\header\\first\\france.js' /* webpackChunkName: "components/constants-header-first-france" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirst = () => import('../..\\components\\constants\\header\\first\\index.js' /* webpackChunkName: "components/constants-header-first" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstItalian = () => import('../..\\components\\constants\\header\\first\\italian.js' /* webpackChunkName: "components/constants-header-first-italian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstJapanese = () => import('../..\\components\\constants\\header\\first\\japanese.js' /* webpackChunkName: "components/constants-header-first-japanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstKorean = () => import('../..\\components\\constants\\header\\first\\korean.js' /* webpackChunkName: "components/constants-header-first-korean" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstPortugues = () => import('../..\\components\\constants\\header\\first\\portugues.js' /* webpackChunkName: "components/constants-header-first-portugues" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstRussian = () => import('../..\\components\\constants\\header\\first\\russian.js' /* webpackChunkName: "components/constants-header-first-russian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstSpanish = () => import('../..\\components\\constants\\header\\first\\spanish.js' /* webpackChunkName: "components/constants-header-first-spanish" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstTaiwanese = () => import('../..\\components\\constants\\header\\first\\taiwanese.js' /* webpackChunkName: "components/constants-header-first-taiwanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstThailand = () => import('../..\\components\\constants\\header\\first\\thailand.js' /* webpackChunkName: "components/constants-header-first-thailand" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderFirstTurkey = () => import('../..\\components\\constants\\header\\first\\turkey.js' /* webpackChunkName: "components/constants-header-first-turkey" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondArabic = () => import('../..\\components\\constants\\header\\second\\arabic.js' /* webpackChunkName: "components/constants-header-second-arabic" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondChinese = () => import('../..\\components\\constants\\header\\second\\chinese.js' /* webpackChunkName: "components/constants-header-second-chinese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondDeutsch = () => import('../..\\components\\constants\\header\\second\\deutsch.js' /* webpackChunkName: "components/constants-header-second-deutsch" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondEnglish = () => import('../..\\components\\constants\\header\\second\\english.js' /* webpackChunkName: "components/constants-header-second-english" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondFrance = () => import('../..\\components\\constants\\header\\second\\france.js' /* webpackChunkName: "components/constants-header-second-france" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecond = () => import('../..\\components\\constants\\header\\second\\index.js' /* webpackChunkName: "components/constants-header-second" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondItalian = () => import('../..\\components\\constants\\header\\second\\italian.js' /* webpackChunkName: "components/constants-header-second-italian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondJapanese = () => import('../..\\components\\constants\\header\\second\\japanese.js' /* webpackChunkName: "components/constants-header-second-japanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondKorean = () => import('../..\\components\\constants\\header\\second\\korean.js' /* webpackChunkName: "components/constants-header-second-korean" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondPortugues = () => import('../..\\components\\constants\\header\\second\\portugues.js' /* webpackChunkName: "components/constants-header-second-portugues" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondRussian = () => import('../..\\components\\constants\\header\\second\\russian.js' /* webpackChunkName: "components/constants-header-second-russian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondSpanish = () => import('../..\\components\\constants\\header\\second\\spanish.js' /* webpackChunkName: "components/constants-header-second-spanish" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondTaiwanese = () => import('../..\\components\\constants\\header\\second\\taiwanese.js' /* webpackChunkName: "components/constants-header-second-taiwanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondThailand = () => import('../..\\components\\constants\\header\\second\\thailand.js' /* webpackChunkName: "components/constants-header-second-thailand" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderSecondTurkey = () => import('../..\\components\\constants\\header\\second\\turkey.js' /* webpackChunkName: "components/constants-header-second-turkey" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdArabic = () => import('../..\\components\\constants\\header\\third\\arabic.js' /* webpackChunkName: "components/constants-header-third-arabic" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdChinese = () => import('../..\\components\\constants\\header\\third\\chinese.js' /* webpackChunkName: "components/constants-header-third-chinese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdDeutsch = () => import('../..\\components\\constants\\header\\third\\deutsch.js' /* webpackChunkName: "components/constants-header-third-deutsch" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdEnglish = () => import('../..\\components\\constants\\header\\third\\english.js' /* webpackChunkName: "components/constants-header-third-english" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdFrance = () => import('../..\\components\\constants\\header\\third\\france.js' /* webpackChunkName: "components/constants-header-third-france" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThird = () => import('../..\\components\\constants\\header\\third\\index.js' /* webpackChunkName: "components/constants-header-third" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdItalian = () => import('../..\\components\\constants\\header\\third\\italian.js' /* webpackChunkName: "components/constants-header-third-italian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdJapanese = () => import('../..\\components\\constants\\header\\third\\japanese.js' /* webpackChunkName: "components/constants-header-third-japanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdKorean = () => import('../..\\components\\constants\\header\\third\\korean.js' /* webpackChunkName: "components/constants-header-third-korean" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdPortugues = () => import('../..\\components\\constants\\header\\third\\portugues.js' /* webpackChunkName: "components/constants-header-third-portugues" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdRussian = () => import('../..\\components\\constants\\header\\third\\russian.js' /* webpackChunkName: "components/constants-header-third-russian" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdSpanish = () => import('../..\\components\\constants\\header\\third\\spanish.js' /* webpackChunkName: "components/constants-header-third-spanish" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdTaiwanese = () => import('../..\\components\\constants\\header\\third\\taiwanese.js' /* webpackChunkName: "components/constants-header-third-taiwanese" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdThailand = () => import('../..\\components\\constants\\header\\third\\thailand.js' /* webpackChunkName: "components/constants-header-third-thailand" */).then(c => wrapFunctional(c.default || c))
+export const ConstantsHeaderThirdTurkey = () => import('../..\\components\\constants\\header\\third\\turkey.js' /* webpackChunkName: "components/constants-header-third-turkey" */).then(c => wrapFunctional(c.default || c))
+
+// nuxt/nuxt.js#8607
+function wrapFunctional(options) {
+  if (!options || !options.functional) {
+    return options
+  }
+
+  const propKeys = Array.isArray(options.props) ? options.props : Object.keys(options.props || {})
+
+  return {
+    render(h) {
+      const attrs = {}
+      const props = {}
+
+      for (const key in this.$attrs) {
+        if (propKeys.includes(key)) {
+          props[key] = this.$attrs[key]
+        } else {
+          attrs[key] = this.$attrs[key]
+        }
+      }
+
+      return h(options, {
+        on: this.$listeners,
+        attrs,
+        props,
+        scopedSlots: this.$scopedSlots,
+      }, this.$slots.default)
+    }
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "Brochure": {
+    "description": "Auto imported from components/Brochure.vue"
+  },
+  "CampusContacts": {
+    "description": "Auto imported from components/CampusContacts.vue"
+  },
+  "CampusMessage": {
+    "description": "Auto imported from components/CampusMessage.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "FormHandler": {
+    "description": "Auto imported from components/FormHandler.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "IframeSrc": {
+    "description": "Auto imported from components/IframeSrc.vue"
+  },
+  "ListLinks": {
+    "description": "Auto imported from components/ListLinks.vue"
+  },
+  "ListText": {
+    "description": "Auto imported from components/ListText.vue"
+  },
+  "MainMenu": {
+    "description": "Auto imported from components/MainMenu.vue"
+  },
+  "MliTable": {
+    "description": "Auto imported from components/MliTable.vue"
+  },
+  "Paragraph": {
+    "description": "Auto imported from components/Paragraph.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "ConstantsCampus": {
+    "description": "Auto imported from components/constants/campus.js"
+  },
+  "ConstantsHelpers": {
+    "description": "Auto imported from components/constants/helpers.js"
+  },
+  "ConstantsLanguage": {
+    "description": "Auto imported from components/constants/language.js"
+  },
+  "ConstantsSidebardataArabic": {
+    "description": "Auto imported from components/constants/sidebardata/arabic.js"
+  },
+  "ConstantsSidebardataChinese": {
+    "description": "Auto imported from components/constants/sidebardata/chinese.js"
+  },
+  "ConstantsSidebardataDeutsch": {
+    "description": "Auto imported from components/constants/sidebardata/deutsch.js"
+  },
+  "ConstantsSidebardataEnglish": {
+    "description": "Auto imported from components/constants/sidebardata/english.js"
+  },
+  "ConstantsSidebardataFrance": {
+    "description": "Auto imported from components/constants/sidebardata/france.js"
+  },
+  "ConstantsSidebardata": {
+    "description": "Auto imported from components/constants/sidebardata/index.js"
+  },
+  "ConstantsSidebardataItalian": {
+    "description": "Auto imported from components/constants/sidebardata/italian.js"
+  },
+  "ConstantsSidebardataJapanese": {
+    "description": "Auto imported from components/constants/sidebardata/japanese.js"
+  },
+  "ConstantsSidebardataKorean": {
+    "description": "Auto imported from components/constants/sidebardata/korean.js"
+  },
+  "ConstantsSidebardataPortugues": {
+    "description": "Auto imported from components/constants/sidebardata/portugues.js"
+  },
+  "ConstantsSidebardataRussian": {
+    "description": "Auto imported from components/constants/sidebardata/russian.js"
+  },
+  "ConstantsSidebardataSpanish": {
+    "description": "Auto imported from components/constants/sidebardata/spanish.js"
+  },
+  "ConstantsSidebardataTaiwanese": {
+    "description": "Auto imported from components/constants/sidebardata/taiwanese.js"
+  },
+  "ConstantsSidebardataThailand": {
+    "description": "Auto imported from components/constants/sidebardata/thailand.js"
+  },
+  "ConstantsSidebardataTurkey": {
+    "description": "Auto imported from components/constants/sidebardata/turkey.js"
+  },
+  "ConstantsFooterFirstArabic": {
+    "description": "Auto imported from components/constants/footer/first/arabic.js"
+  },
+  "ConstantsFooterFirstChinese": {
+    "description": "Auto imported from components/constants/footer/first/chinese.js"
+  },
+  "ConstantsFooterFirstDeutsch": {
+    "description": "Auto imported from components/constants/footer/first/deutsch.js"
+  },
+  "ConstantsFooterFirstEnglish": {
+    "description": "Auto imported from components/constants/footer/first/english.js"
+  },
+  "ConstantsFooterFirstFrance": {
+    "description": "Auto imported from components/constants/footer/first/france.js"
+  },
+  "ConstantsFooterFirst": {
+    "description": "Auto imported from components/constants/footer/first/index.js"
+  },
+  "ConstantsFooterFirstItalian": {
+    "description": "Auto imported from components/constants/footer/first/italian.js"
+  },
+  "ConstantsFooterFirstJapanese": {
+    "description": "Auto imported from components/constants/footer/first/japanese.js"
+  },
+  "ConstantsFooterFirstKorean": {
+    "description": "Auto imported from components/constants/footer/first/korean.js"
+  },
+  "ConstantsFooterFirstPortugues": {
+    "description": "Auto imported from components/constants/footer/first/portugues.js"
+  },
+  "ConstantsFooterFirstRussian": {
+    "description": "Auto imported from components/constants/footer/first/russian.js"
+  },
+  "ConstantsFooterFirstSpanish": {
+    "description": "Auto imported from components/constants/footer/first/spanish.js"
+  },
+  "ConstantsFooterFirstTaiwanese": {
+    "description": "Auto imported from components/constants/footer/first/taiwanese.js"
+  },
+  "ConstantsFooterFirstThailand": {
+    "description": "Auto imported from components/constants/footer/first/thailand.js"
+  },
+  "ConstantsFooterFirstTurkey": {
+    "description": "Auto imported from components/constants/footer/first/turkey.js"
+  },
+  "ConstantsFooterSecondArabic": {
+    "description": "Auto imported from components/constants/footer/second/arabic.js"
+  },
+  "ConstantsFooterSecondChinese": {
+    "description": "Auto imported from components/constants/footer/second/chinese.js"
+  },
+  "ConstantsFooterSecondDeutsch": {
+    "description": "Auto imported from components/constants/footer/second/deutsch.js"
+  },
+  "ConstantsFooterSecondEnglish": {
+    "description": "Auto imported from components/constants/footer/second/english.js"
+  },
+  "ConstantsFooterSecondFrance": {
+    "description": "Auto imported from components/constants/footer/second/france.js"
+  },
+  "ConstantsFooterSecond": {
+    "description": "Auto imported from components/constants/footer/second/index.js"
+  },
+  "ConstantsFooterSecondItalian": {
+    "description": "Auto imported from components/constants/footer/second/italian.js"
+  },
+  "ConstantsFooterSecondJapanese": {
+    "description": "Auto imported from components/constants/footer/second/japanese.js"
+  },
+  "ConstantsFooterSecondKorean": {
+    "description": "Auto imported from components/constants/footer/second/korean.js"
+  },
+  "ConstantsFooterSecondPortugues": {
+    "description": "Auto imported from components/constants/footer/second/portugues.js"
+  },
+  "ConstantsFooterSecondRussian": {
+    "description": "Auto imported from components/constants/footer/second/russian.js"
+  },
+  "ConstantsFooterSecondSpanish": {
+    "description": "Auto imported from components/constants/footer/second/spanish.js"
+  },
+  "ConstantsFooterSecondTaiwanese": {
+    "description": "Auto imported from components/constants/footer/second/taiwanese.js"
+  },
+  "ConstantsFooterSecondThailand": {
+    "description": "Auto imported from components/constants/footer/second/thailand.js"
+  },
+  "ConstantsFooterSecondTurkey": {
+    "description": "Auto imported from components/constants/footer/second/turkey.js"
+  },
+  "ConstantsFooterThirdArabic": {
+    "description": "Auto imported from components/constants/footer/third/arabic.js"
+  },
+  "ConstantsFooterThirdChinese": {
+    "description": "Auto imported from components/constants/footer/third/chinese.js"
+  },
+  "ConstantsFooterThirdDeutsch": {
+    "description": "Auto imported from components/constants/footer/third/deutsch.js"
+  },
+  "ConstantsFooterThirdEnglish": {
+    "description": "Auto imported from components/constants/footer/third/english.js"
+  },
+  "ConstantsFooterThirdFrance": {
+    "description": "Auto imported from components/constants/footer/third/france.js"
+  },
+  "ConstantsFooterThird": {
+    "description": "Auto imported from components/constants/footer/third/index.js"
+  },
+  "ConstantsFooterThirdItalian": {
+    "description": "Auto imported from components/constants/footer/third/italian.js"
+  },
+  "ConstantsFooterThirdJapanese": {
+    "description": "Auto imported from components/constants/footer/third/japanese.js"
+  },
+  "ConstantsFooterThirdKorean": {
+    "description": "Auto imported from components/constants/footer/third/korean.js"
+  },
+  "ConstantsFooterThirdPortugues": {
+    "description": "Auto imported from components/constants/footer/third/portugues.js"
+  },
+  "ConstantsFooterThirdRussian": {
+    "description": "Auto imported from components/constants/footer/third/russian.js"
+  },
+  "ConstantsFooterThirdSpanish": {
+    "description": "Auto imported from components/constants/footer/third/spanish.js"
+  },
+  "ConstantsFooterThirdTaiwanese": {
+    "description": "Auto imported from components/constants/footer/third/taiwanese.js"
+  },
+  "ConstantsFooterThirdThailand": {
+    "description": "Auto imported from components/constants/footer/third/thailand.js"
+  },
+  "ConstantsFooterThirdTurkey": {
+    "description": "Auto imported from components/constants/footer/third/turkey.js"
+  },
+  "ConstantsHeaderFirstArabic": {
+    "description": "Auto imported from components/constants/header/first/arabic.js"
+  },
+  "ConstantsHeaderFirstChinese": {
+    "description": "Auto imported from components/constants/header/first/chinese.js"
+  },
+  "ConstantsHeaderFirstDeutsch": {
+    "description": "Auto imported from components/constants/header/first/deutsch.js"
+  },
+  "ConstantsHeaderFirstEnglish": {
+    "description": "Auto imported from components/constants/header/first/english.js"
+  },
+  "ConstantsHeaderFirstFrance": {
+    "description": "Auto imported from components/constants/header/first/france.js"
+  },
+  "ConstantsHeaderFirst": {
+    "description": "Auto imported from components/constants/header/first/index.js"
+  },
+  "ConstantsHeaderFirstItalian": {
+    "description": "Auto imported from components/constants/header/first/italian.js"
+  },
+  "ConstantsHeaderFirstJapanese": {
+    "description": "Auto imported from components/constants/header/first/japanese.js"
+  },
+  "ConstantsHeaderFirstKorean": {
+    "description": "Auto imported from components/constants/header/first/korean.js"
+  },
+  "ConstantsHeaderFirstPortugues": {
+    "description": "Auto imported from components/constants/header/first/portugues.js"
+  },
+  "ConstantsHeaderFirstRussian": {
+    "description": "Auto imported from components/constants/header/first/russian.js"
+  },
+  "ConstantsHeaderFirstSpanish": {
+    "description": "Auto imported from components/constants/header/first/spanish.js"
+  },
+  "ConstantsHeaderFirstTaiwanese": {
+    "description": "Auto imported from components/constants/header/first/taiwanese.js"
+  },
+  "ConstantsHeaderFirstThailand": {
+    "description": "Auto imported from components/constants/header/first/thailand.js"
+  },
+  "ConstantsHeaderFirstTurkey": {
+    "description": "Auto imported from components/constants/header/first/turkey.js"
+  },
+  "ConstantsHeaderSecondArabic": {
+    "description": "Auto imported from components/constants/header/second/arabic.js"
+  },
+  "ConstantsHeaderSecondChinese": {
+    "description": "Auto imported from components/constants/header/second/chinese.js"
+  },
+  "ConstantsHeaderSecondDeutsch": {
+    "description": "Auto imported from components/constants/header/second/deutsch.js"
+  },
+  "ConstantsHeaderSecondEnglish": {
+    "description": "Auto imported from components/constants/header/second/english.js"
+  },
+  "ConstantsHeaderSecondFrance": {
+    "description": "Auto imported from components/constants/header/second/france.js"
+  },
+  "ConstantsHeaderSecond": {
+    "description": "Auto imported from components/constants/header/second/index.js"
+  },
+  "ConstantsHeaderSecondItalian": {
+    "description": "Auto imported from components/constants/header/second/italian.js"
+  },
+  "ConstantsHeaderSecondJapanese": {
+    "description": "Auto imported from components/constants/header/second/japanese.js"
+  },
+  "ConstantsHeaderSecondKorean": {
+    "description": "Auto imported from components/constants/header/second/korean.js"
+  },
+  "ConstantsHeaderSecondPortugues": {
+    "description": "Auto imported from components/constants/header/second/portugues.js"
+  },
+  "ConstantsHeaderSecondRussian": {
+    "description": "Auto imported from components/constants/header/second/russian.js"
+  },
+  "ConstantsHeaderSecondSpanish": {
+    "description": "Auto imported from components/constants/header/second/spanish.js"
+  },
+  "ConstantsHeaderSecondTaiwanese": {
+    "description": "Auto imported from components/constants/header/second/taiwanese.js"
+  },
+  "ConstantsHeaderSecondThailand": {
+    "description": "Auto imported from components/constants/header/second/thailand.js"
+  },
+  "ConstantsHeaderSecondTurkey": {
+    "description": "Auto imported from components/constants/header/second/turkey.js"
+  },
+  "ConstantsHeaderThirdArabic": {
+    "description": "Auto imported from components/constants/header/third/arabic.js"
+  },
+  "ConstantsHeaderThirdChinese": {
+    "description": "Auto imported from components/constants/header/third/chinese.js"
+  },
+  "ConstantsHeaderThirdDeutsch": {
+    "description": "Auto imported from components/constants/header/third/deutsch.js"
+  },
+  "ConstantsHeaderThirdEnglish": {
+    "description": "Auto imported from components/constants/header/third/english.js"
+  },
+  "ConstantsHeaderThirdFrance": {
+    "description": "Auto imported from components/constants/header/third/france.js"
+  },
+  "ConstantsHeaderThird": {
+    "description": "Auto imported from components/constants/header/third/index.js"
+  },
+  "ConstantsHeaderThirdItalian": {
+    "description": "Auto imported from components/constants/header/third/italian.js"
+  },
+  "ConstantsHeaderThirdJapanese": {
+    "description": "Auto imported from components/constants/header/third/japanese.js"
+  },
+  "ConstantsHeaderThirdKorean": {
+    "description": "Auto imported from components/constants/header/third/korean.js"
+  },
+  "ConstantsHeaderThirdPortugues": {
+    "description": "Auto imported from components/constants/header/third/portugues.js"
+  },
+  "ConstantsHeaderThirdRussian": {
+    "description": "Auto imported from components/constants/header/third/russian.js"
+  },
+  "ConstantsHeaderThirdSpanish": {
+    "description": "Auto imported from components/constants/header/third/spanish.js"
+  },
+  "ConstantsHeaderThirdTaiwanese": {
+    "description": "Auto imported from components/constants/header/third/taiwanese.js"
+  },
+  "ConstantsHeaderThirdThailand": {
+    "description": "Auto imported from components/constants/header/third/thailand.js"
+  },
+  "ConstantsHeaderThirdTurkey": {
+    "description": "Auto imported from components/constants/header/third/turkey.js"
+  }
+}
