@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1795690803",layout:"home",error:a,serverRendered:true,routePath:b,config:{axios:{baseURL:"https:\u002F\u002Fmliesl.edu:81"},recaptcha_site_key:"6LeWezMuAAAAALlUMYDgJyJUoLeVr2MbpINSnkGD",_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"6ddd2344"}}}}(null,"\u002F"));
